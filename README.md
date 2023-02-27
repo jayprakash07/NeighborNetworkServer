@@ -4,7 +4,7 @@
 
 This is all the server-side code for Neighbor Network.
 
-Credits: Jayprakash Pathak
+Credits: Jayprakash Pathak, Pratham Pathak, Tirth Nagar, Dev Patel
 
 Devpost: https://devpost.com/software/neighbor-network
 
