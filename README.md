@@ -8,4 +8,4 @@ Credits: Jayprakash Pathak, Pratham Pathak, Tirth Nagar, Dev Patel
 
 Devpost: https://devpost.com/software/neighbor-network
 
-Demo Link: https://bananahacks2021v3.netlify.app/
+Demo Link: https://neighbournetwork.netlify.app/
